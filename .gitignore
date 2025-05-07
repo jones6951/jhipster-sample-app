@@ -105,6 +105,11 @@ Desktop.ini
 .DS_Store
 .svn
 
+######################
+# Polaris
+######################
+.bridge
+
 # Thumbnails
 ._*
 
