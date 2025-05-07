@@ -1,0 +1,116 @@
+/Users/mjones/Tools/Bridge/bridge-cli/adapters/detect-execution/versions/0.2.132/detect-execution package /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris SCA Package Manager Scan/data.json
+{"level":"info","logger":"Detect Execution","msg":"Running command /opt/homebrew/Cellar/openjdk/23.0.2/bin/java -jar /Users/mjones/.blackduck/bridge/tools/blackduck-detect/10.1.0/detect-10.1.0.jar --detect.cleanup=false --detect.bdio.file.name=scan --detect.bdio.output.path=/Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris SCA Package Manager Scan/detect/bdio/blackduck_artifact --detect.output.path=/Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris SCA Package Manager Scan/detect --detect.tools=DETECTOR --detect.component.location.analysis.enabled=true --blackduck.offline.mode=true --blackduck.offline.mode.force.bdio=true","time":"2025-05-07 12:30:19.0353 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"warning","logger":"Detect Execution","msg":"--- Detect-Self-Updater:  Self-Update feature is disabled because of the following reasons:","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"warning","logger":"Detect Execution","msg":"--- Detect-Self-Updater:  Detect in offline mode is incompatible with the Self-Update feature.","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"warning","logger":"Detect Execution","msg":"--- Detect-Self-Updater:  Black Duck URL is required for the Self-Update feature.","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"level":"info","logger":"Detect Execution","msg":"______     _            _","time":"2025-05-07 12:30:19.6630 EDT"}
+{"external_parsed":true,"level":"info","logger":"Detect Execution","msg":"|  _  \\   | |          | |","time":"2025-05-07 12:30:19.6631 EDT"}
+{"external_parsed":true,"level":"info","logger":"Detect Execution","msg":"| | | |___| |_ ___  ___| |_","time":"2025-05-07 12:30:19.6631 EDT"}
+{"external_parsed":true,"level":"info","logger":"Detect Execution","msg":"| | | / _ \\ __/ _ \\/ __| __|","time":"2025-05-07 12:30:19.6631 EDT"}
+{"external_parsed":true,"level":"info","logger":"Detect Execution","msg":"| |/ /  __/ ||  __/ (__| |_","time":"2025-05-07 12:30:19.6631 EDT"}
+{"external_parsed":true,"level":"info","logger":"Detect Execution","msg":"|___/ \\___|\\__\\___|\\___|\\__|","time":"2025-05-07 12:30:19.6631 EDT"}
+{"external_parsed":true,"level":"info","logger":"Detect Execution","msg":"","time":"2025-05-07 12:30:19.6631 EDT"}
+{"external_parsed":true,"level":"info","logger":"Detect Execution","msg":"","time":"2025-05-07 12:30:19.7516 EDT"}
+{"external_parsed":true,"level":"info","logger":"Detect Execution","msg":"Detect Version: 10.1.0","time":"2025-05-07 12:30:19.7516 EDT"}
+{"external_parsed":true,"level":"info","logger":"Detect Execution","msg":"","time":"2025-05-07 12:30:19.7517 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Current property values:","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- --property = value [notes]","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ------------------------------------------------------------","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- blackduck.offline.mode = true [cmd] ","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- blackduck.offline.mode.force.bdio = true [cmd] ","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- detect.bdio.file.name = scan [cmd] ","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- detect.bdio.output.path = /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris SCA Package Manager Scan/detect/bdio/blackduck_artifact [cmd] ","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- detect.cleanup = false [cmd] ","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- detect.component.location.analysis.enabled = true [cmd] ","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- detect.excluded.directories = /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge [env] ","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- detect.output.path = /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris SCA Package Manager Scan/detect [cmd] ","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- detect.tools = DETECTOR [cmd] ","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ------------------------------------------------------------","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Detect build date: 2024-12-12","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Source directory: /Users/mjones/Demonstration/Polaris/jhipster-sample-app","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Output directory: /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris SCA Package Manager Scan/detect","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Run directory: /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris SCA Package Manager Scan/detect/runs/2025-05-07-16-30-19-724","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"warning","logger":"Detect Execution","msg":"--- Correlated Scanning is not available for Rapid/Stateless scan mode or offline scanning. A correlation ID will not be set.","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ----------------------------------","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Docker tool will not be run.","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ----------------------------------","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Bazel tool will not be run.","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ----------------------------------","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Will include the Detectors tool.","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Searching for detectors.","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Evaluating detectors. This may take a while.","time":"2025-05-07 12:30:19.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Running executable \u003e/Users/mjones/Demonstration/Polaris/jhipster-sample-app/mvnw dependency:tree -T1","time":"2025-05-07 12:30:20.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Process return code: 0","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Running executable \u003e/opt/homebrew/bin/git config --get remote.origin.url","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Process return code: 0","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Running executable \u003e/opt/homebrew/bin/git rev-parse --abbrev-ref HEAD","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Process return code: 0","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Running executable \u003e/opt/homebrew/bin/git rev-parse HEAD","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Process return code: 0","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ======================================================================================================","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Detector Report","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ======================================================================================================","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- \t/Users/mjones/Demonstration/Polaris/jhipster-sample-app (depth 0)","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- \t\tMaven CLI: SUCCESS","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- \t\t\tFound file: /Users/mjones/Demonstration/Polaris/jhipster-sample-app/pom.xml","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- \t\t\tFound executable: /Users/mjones/Demonstration/Polaris/jhipster-sample-app/mvnw","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- \t\tNPM Package Lock: SUCCESS","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- \t\t\tFound file: /Users/mjones/Demonstration/Polaris/jhipster-sample-app/package-lock.json","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- \t\t\tFound file: /Users/mjones/Demonstration/Polaris/jhipster-sample-app/package.json","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- \t\tGit: SUCCESS","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- \t\t\tFound file: /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.git","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- \t\t\tFound executable: /opt/homebrew/bin/git","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ----------------------------------","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- The following project names were found: ","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- \tMAVEN: jhipster-sample-application, 0.0.1-SNAPSHOT","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- \tNPM: jhipster-sample-application, 0.0.1-SNAPSHOT","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Chose to use MAVEN at depth 0 for project name and version. Override with detect.project.detector.","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Detectors actions finished.","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ----------------------------------","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Project name: jhipster-sample-application","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Project version: 0.0.1-SNAPSHOT","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ----------------------------------","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Signature Scanner tool will not be run.","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ----------------------------------","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Vulnerability Impact Analysis tool will not be run.","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ----------------------------------","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- IaC Scanner tool will not be run.","time":"2025-05-07 12:30:26.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ----------------------------------","time":"2025-05-07 12:30:27.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ##################################################################################################","time":"2025-05-07 12:30:27.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- #                                                                                                #","time":"2025-05-07 12:30:27.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- #  Product Notice                                                                                #","time":"2025-05-07 12:30:27.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- #  © 2024 Black Duck Software, Inc.                                                              #","time":"2025-05-07 12:30:27.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- #  This Black Duck Component Locator and all associated documentation are proprietary            #","time":"2025-05-07 12:30:27.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- #  to Black Duck Software, Inc. and may only be used pursuant to the terms and conditions of a   #","time":"2025-05-07 12:30:27.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- #  written license agreement with Black Duck Software, Inc. All other use, reproduction,         #","time":"2025-05-07 12:30:27.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- #  modification, or distribution of the Black Duck Component Locator or the associated           #","time":"2025-05-07 12:30:27.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- #  documentation is strictly prohibited.                                                         #","time":"2025-05-07 12:30:27.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- #                                                                                                #","time":"2025-05-07 12:30:27.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ##################################################################################################","time":"2025-05-07 12:30:27.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Running Component Locator v1.1.12 on /Users/mjones/Demonstration/Polaris/jhipster-sample-app","time":"2025-05-07 12:30:27.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Component Location Analysis file saved at: /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris SCA Package Manager Scan/detect/runs/2025-05-07-16-30-19-724/scan/components-with-locations.json","time":"2025-05-07 12:32:30.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ----------------------------------","time":"2025-05-07 12:32:30.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ","time":"2025-05-07 12:32:30.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ","time":"2025-05-07 12:32:30.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Creating status file: /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris SCA Package Manager Scan/detect/runs/2025-05-07-16-30-19-724/status/status.json","time":"2025-05-07 12:32:30.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ","time":"2025-05-07 12:32:30.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Skipping cleanup, it is disabled.","time":"2025-05-07 12:32:30.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ","time":"2025-05-07 12:32:30.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ","time":"2025-05-07 12:32:30.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ======== Detect Result ========","time":"2025-05-07 12:32:30.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ","time":"2025-05-07 12:32:30.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Component Location Analysis File: /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris SCA Package Manager Scan/detect/runs/2025-05-07-16-30-19-724/scan/components-with-locations.json","time":"2025-05-07 12:32:30.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ","time":"2025-05-07 12:32:30.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ======== Detect Status ========","time":"2025-05-07 12:32:30.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ","time":"2025-05-07 12:32:30.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- GIT: SUCCESS","time":"2025-05-07 12:32:30.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- MAVEN: SUCCESS","time":"2025-05-07 12:32:30.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- NPM: SUCCESS","time":"2025-05-07 12:32:30.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Overall Status: SUCCESS - Detect exited successfully.","time":"2025-05-07 12:32:30.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ","time":"2025-05-07 12:32:30.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ===============================","time":"2025-05-07 12:32:30.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- ","time":"2025-05-07 12:32:30.0000 EDT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Detect Execution","msg":"--- Detect duration: 00h 02m 11s 278ms","time":"2025-05-07 12:32:30.0000 EDT"}

@@ -1,0 +1,4 @@
+/Users/mjones/Tools/Bridge/bridge-cli/adapters/polaris-policy-checker/versions/0.2.60/polaris-policy-checker /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Policy Checker/data.json
+{"level":"info","logger":"Polaris Policy Checker","msg":"Checking for policy violations for \"SCA(scaPackage)\" assessment...","time":"2025-05-07 12:36:05.6451 EDT"}
+{"level":"info","logger":"Polaris Policy Checker","msg":"Checking for policy violations for \"SAST\" assessment...","time":"2025-05-07 12:36:05.6458 EDT"}
+{"level":"info","logger":"Polaris Policy Checker","msg":"no policies were violated to break the build","time":"2025-05-07 12:36:05.8572 EDT"}

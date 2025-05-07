@@ -1,0 +1,11 @@
+/Users/mjones/Tools/Bridge/bridge-cli/adapters/polaris-waiter/versions/0.2.59/polaris-waiter /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Waiter/data.json
+{"level":"info","logger":"Polaris Waiter","msg":"Waiting for test with assessment type \"SCA(scaPackage)\" and id \"d580b821-cc1f-4e01-b1fc-b07bf530dce6\"","time":"2025-05-07 12:32:42.0349 EDT"}
+{"level":"info","logger":"Polaris Waiter","msg":"Waiting for test with assessment type \"SAST\" and id \"09077562-258f-4c9b-a751-46226246f1b4\"","time":"2025-05-07 12:32:42.0353 EDT"}
+{"level":"info","logger":"Polaris Waiter","msg":"Polling Test Manager: state of test with assessment type \"SAST\" and id \"09077562-258f-4c9b-a751-46226246f1b4\" is \"Waiting for Capture\"","time":"2025-05-07 12:32:42.2175 EDT"}
+{"level":"info","logger":"Polaris Waiter","msg":"Polling Test Manager: state of test with assessment type \"SCA(scaPackage)\" and id \"d580b821-cc1f-4e01-b1fc-b07bf530dce6\" is \"Waiting for Capture\"","time":"2025-05-07 12:32:42.2283 EDT"}
+{"level":"info","logger":"Polaris Waiter","msg":"Polling Test Manager: state of test with assessment type \"SAST\" and id \"09077562-258f-4c9b-a751-46226246f1b4\" is \"Queuing\"","time":"2025-05-07 12:32:52.3481 EDT"}
+{"level":"info","logger":"Polaris Waiter","msg":"Polling Test Manager: state of test with assessment type \"SCA(scaPackage)\" and id \"d580b821-cc1f-4e01-b1fc-b07bf530dce6\" is \"Queuing\"","time":"2025-05-07 12:32:52.3714 EDT"}
+{"level":"info","logger":"Polaris Waiter","msg":"Polling Test Manager: state of test with assessment type \"SAST\" and id \"09077562-258f-4c9b-a751-46226246f1b4\" is \"Scanning\"","time":"2025-05-07 12:33:02.4800 EDT"}
+{"level":"info","logger":"Polaris Waiter","msg":"Polling Test Manager: state of test with assessment type \"SCA(scaPackage)\" and id \"d580b821-cc1f-4e01-b1fc-b07bf530dce6\" is \"Scanning \u0026 Publishing\"","time":"2025-05-07 12:33:02.5117 EDT"}
+{"level":"info","logger":"Polaris Waiter","msg":"test with assessment type \"SCA(scaPackage)\" and id \"d580b821-cc1f-4e01-b1fc-b07bf530dce6\" completed successfully","time":"2025-05-07 12:35:04.3628 EDT"}
+{"level":"info","logger":"Polaris Waiter","msg":"test with assessment type \"SAST\" and id \"09077562-258f-4c9b-a751-46226246f1b4\" completed successfully","time":"2025-05-07 12:36:05.5631 EDT"}

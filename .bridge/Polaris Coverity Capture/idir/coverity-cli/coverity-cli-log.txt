@@ -1,0 +1,79 @@
+[INFO] Using lightweight capture with thin client.
+[INFO] Executing command: /Users/mjones/.blackduck/bridge/tools/cov-thin-client/2024.12.0/bin/cov-internal-manage-cache check
+[INFO] Caching is enabled.
+[INFO] Executing command: /Users/mjones/.blackduck/bridge/tools/cov-thin-client/2024.12.0/bin/cov-manage-emit --dir /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir create
+[INFO] Telemetry is enabled
+[INFO] Executing command: /Users/mjones/.blackduck/bridge/tools/cov-thin-client/2024.12.0/bin/cov-manage-emit --dir /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir list-capture-diagnostics
+[INFO] Executing action Delete compiler configurations for intermediate directory '/Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir'
+[INFO] Executing action Configure build compiler: /Users/mjones/.blackduck/bridge/tools/cov-thin-client/2024.12.0/bin/cov-configure -c /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir/coverity-cli/build-compiler-configs/coverity_config.xml --compiler gcc --comptype clangcc --template
+[INFO] Executing action Configure build compiler: /Users/mjones/.blackduck/bridge/tools/cov-thin-client/2024.12.0/bin/cov-configure -c /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir/coverity-cli/build-compiler-configs/coverity_config.xml --compiler cc --comptype gcc --template
+[INFO] Executing action Configure build compiler: /Users/mjones/.blackduck/bridge/tools/cov-thin-client/2024.12.0/bin/cov-configure -c /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir/coverity-cli/build-compiler-configs/coverity_config.xml --compiler c++ --comptype g++ --template
+[INFO] Executing action Configure build compiler: /Users/mjones/.blackduck/bridge/tools/cov-thin-client/2024.12.0/bin/cov-configure -c /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir/coverity-cli/build-compiler-configs/coverity_config.xml --compiler clang --comptype clangcc --template
+[INFO] Executing action Configure build compiler: /Users/mjones/.blackduck/bridge/tools/cov-thin-client/2024.12.0/bin/cov-configure -c /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir/coverity-cli/build-compiler-configs/coverity_config.xml --compiler java --comptype java --template
+[INFO] Executing action Configure build compiler: /Users/mjones/.blackduck/bridge/tools/cov-thin-client/2024.12.0/bin/cov-configure -c /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir/coverity-cli/build-compiler-configs/coverity_config.xml --compiler go --comptype go --template
+[INFO] Executing action Configure build compiler: /Users/mjones/.blackduck/bridge/tools/cov-thin-client/2024.12.0/bin/cov-configure -c /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir/coverity-cli/build-compiler-configs/coverity_config.xml --compiler ccache --comptype prefix --template
+[INFO] Executing action Configure build compiler: /Users/mjones/.blackduck/bridge/tools/cov-thin-client/2024.12.0/bin/cov-configure -c /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir/coverity-cli/build-compiler-configs/coverity_config.xml --compiler kotlinc --comptype kotlinc --template
+[WARNING] Template config template-java-config-0 already exists for java and will be reused. 
+[WARNING] Template config template-apt-config-0 already exists for apt and will be reused. 
+[WARNING] Template config template-javaw-config-0 already exists for javaw and will be reused. 
+[INFO] Executing action Configure build compiler: /Users/mjones/.blackduck/bridge/tools/cov-thin-client/2024.12.0/bin/cov-configure -c /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir/coverity-cli/buildless-compiler-configs/coverity_config.xml --dart
+[INFO] Executing action Configure build compiler: /Users/mjones/.blackduck/bridge/tools/cov-thin-client/2024.12.0/bin/cov-configure -c /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir/coverity-cli/buildless-compiler-configs/coverity_config.xml --javascript
+[INFO] Executing action Configure build compiler: /Users/mjones/.blackduck/bridge/tools/cov-thin-client/2024.12.0/bin/cov-configure -c /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir/coverity-cli/buildless-compiler-configs/coverity_config.xml --php
+[INFO] Executing action Configure build compiler: /Users/mjones/.blackduck/bridge/tools/cov-thin-client/2024.12.0/bin/cov-configure -c /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir/coverity-cli/buildless-compiler-configs/coverity_config.xml --python
+[INFO] Executing action Configure build compiler: /Users/mjones/.blackduck/bridge/tools/cov-thin-client/2024.12.0/bin/cov-configure -c /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir/coverity-cli/buildless-compiler-configs/coverity_config.xml --ruby
+[INFO] Executing action Configure build compiler: /Users/mjones/.blackduck/bridge/tools/cov-thin-client/2024.12.0/bin/cov-configure -c /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir/coverity-cli/buildless-compiler-configs/coverity_config.xml --comptype capture-config-files --file-regex $capture-config-files$ --template
+[WARNING] Configuration already exists for file regex $capture-config-files$
+          and it will not be updated.
+[INFO] Loading compiler config '/Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir/coverity-cli/build-compiler-configs/coverity_config.xml'
+[INFO] Loading compiler config '/Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir/coverity-cli/buildless-compiler-configs/coverity_config.xml'
+[INFO] Executing action Execute clean command: sh -c npm clean
+Unknown command: "clean"
+
+To see a list of supported npm commands, run:
+  npm help
+[INFO] Executing action Invoke build capture: /Users/mjones/.blackduck/bridge/tools/cov-thin-client/2024.12.0/bin/cov-build --dir /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir -c /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir/coverity-cli/build-compiler-configs/coverity_config.xml --append-log --no-security-da --record-with-source --no-xrefs --enable-scan-transparency-data --bytecode-caching sh -c npm install
+Coverity Build Capture (64-bit) version 2024.12.0 on Darwin 24.4.0 arm64
+Internal version numbers: 1698eb2daa p-2024.12-push-32
+
+
+
+> jhipster-sample-application@0.0.1-SNAPSHOT prepare
+> husky
+
+
+added 1 package, and audited 2085 packages in 2s
+
+320 packages are looking for funding
+  run `npm fund` for details
+
+11 vulnerabilities (2 low, 4 moderate, 5 high)
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+Attempting to detect unconfigured compilers in build
+|0----------25-----------50----------75---------100|
+****************************************************
+The cov-build utility completed successfully.
+[INFO] Executing action Collect Build Metrics
+[INFO] Executing action Invalidate capture results
+[INFO] Executing action Update uncaptured file timestamps for project "/Users/mjones/Demonstration/Polaris/jhipster-sample-app/pom.xml"
+[INFO] Executing command: /Users/mjones/.blackduck/bridge/tools/cov-thin-client/2024.12.0/bin/cov-manage-emit --dir /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir list-capture-diagnostics
+[INFO] Executing action Emit files using buildless capture: /Users/mjones/.blackduck/bridge/tools/cov-thin-client/2024.12.0/bin/cov-internal-capture-files --dir /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir -c /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir/coverity-cli/buildless-compiler-configs/coverity_config.xml --ticker-mode none --append-log --capture-list-file /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir/coverity-cli/capture-file-list-2972230507 --record-with-source
+[INFO] Buildless capture started.
+[INFO] Emitting 426 Files.
+[INFO] Buildless capture completed.
+[INFO] Executing action deleteResidualTUs /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir
+[INFO] Executing command: /Users/mjones/.blackduck/bridge/tools/cov-thin-client/2024.12.0/bin/cov-manage-emit --dir /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir list-capture-diagnostics
+[INFO] Executing action Invalidate capture results
+[INFO] Executing command: /Users/mjones/.blackduck/bridge/tools/cov-thin-client/2024.12.0/bin/cov-manage-emit --dir /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir list-capture-diagnostics
+Capture summary:
+    SUCCEEDED: 426
+    INCOMPLETE: 0
+    FAILED: 0
+    IGNORED: 170
+    FILES CAPTURED: 426
+    LINES OF CODE: 24152
+[INFO] Capture phase took 9.103s.
+[INFO] To analyze your project, type '/Users/mjones/.blackduck/bridge/tools/cov-thin-client/2024.12.0/bin/coverity analyze --dir /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir -o analyze.location=connect'.

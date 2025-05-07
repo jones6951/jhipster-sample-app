@@ -1,0 +1,29 @@
+# Version: 1698eb2daa p-2024.12-push-32
+# Command Line: /Users/mjones/.blackduck/bridge/tools/cov-thin-client/2024.12.0/bin/cov-build --dir /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir -c /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir/coverity-cli/build-compiler-configs/coverity_config.xml --append-log --no-security-da --record-with-source --no-xrefs --enable-scan-transparency-data --bytecode-caching sh -c npm install
+timer                                    ms      calls
+------------------------------------------------------
+cov-build                              5180          1
+  create_or_open emit DB                  4          1
+    open emit DB                          4          1
+  add_string_to_table                     1         16
+  addEmitFileName                         0          1
+  addEnvironmentVars                      1          1
+    add_string_to_table                   0         52
+  Prepare capture                       486          1
+  Running build command                4463          1
+  generate_generic_compiler_map         190          1
+    handle_derived_compiler              13         16
+  (left over)                            35
+
+activity                                 ms      calls
+------------------------------------------------------
+cov-build                              5180          1
+create_or_open emit DB                    4          1
+open emit DB                              4          1
+add_string_to_table                       1         68
+addEmitFileName                           0          1
+addEnvironmentVars                        1          1
+Prepare capture                         486          1
+Running build command                  4463          1
+generate_generic_compiler_map           190          1
+handle_derived_compiler                  13         16

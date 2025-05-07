@@ -1,0 +1,7 @@
+/Users/mjones/Tools/Bridge/bridge-cli/adapters/polaris-controller/versions/0.2.155/polaris-controller /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Controller/data.json
+{"level":"info","logger":"Polaris Controller","msg":"fetching recommended \"detect\" tool info...","time":"2025-05-07 12:30:17.1143 EDT"}
+{"level":"info","logger":"Polaris Controller","msg":"checking \"detect\" tool installation inside bridge home directory: /Users/mjones/.blackduck/bridge/tools/blackduck-detect/10.1.0","time":"2025-05-07 12:30:17.3615 EDT"}
+{"level":"info","logger":"Polaris Controller","msg":"\"detect\" tool is already installed...","time":"2025-05-07 12:30:18.7014 EDT"}
+{"level":"info","logger":"Polaris Controller","msg":"fetching recommended \"coverity\" tool info...","time":"2025-05-07 12:30:18.7015 EDT"}
+{"level":"info","logger":"Polaris Controller","msg":"checking \"coverity\" tool installation inside bridge home directory: /Users/mjones/.blackduck/bridge/tools/cov-thin-client/2024.12.0","time":"2025-05-07 12:30:18.7964 EDT"}
+{"level":"info","logger":"Polaris Controller","msg":"\"coverity\" tool is already installed...","time":"2025-05-07 12:30:18.9710 EDT"}
