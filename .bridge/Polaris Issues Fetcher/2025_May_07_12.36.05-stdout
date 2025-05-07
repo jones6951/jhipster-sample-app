@@ -1,5 +1,0 @@
-/Users/mjones/Tools/Bridge/bridge-cli/adapters/polaris-issues-fetcher/versions/0.2.57/polaris-issues-fetcher /Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Issues Fetcher/data.json
-{"level":"info","logger":"Polaris Issues Fetcher","msg":"Fetching issues for \"SAST\" assessment","time":"2025-05-07 12:36:05.9352 EDT"}
-{"level":"info","logger":"Polaris Issues Fetcher","msg":"Fetching issues for \"SCA(scaPackage)\" assessment","time":"2025-05-07 12:36:05.9359 EDT"}
-{"level":"info","logger":"Polaris Issues Fetcher","msg":"Successfully fetched issues for assessment type \"SCA(scaPackage)\" with id \"d580b821-cc1f-4e01-b1fc-b07bf530dce6\"\n {\n \"critical\": 2,\n \"high\": 4,\n \"informational\": 0,\n \"low\": 1,\n \"medium\": 10\n}\n","time":"2025-05-07 12:36:06.2142 EDT"}
-{"level":"info","logger":"Polaris Issues Fetcher","msg":"Successfully fetched issues for assessment type \"SAST\" with id \"09077562-258f-4c9b-a751-46226246f1b4\"\n {\n \"critical\": 0,\n \"high\": 9,\n \"informational\": 0,\n \"low\": 58,\n \"medium\": 11\n}\n","time":"2025-05-07 12:36:06.2170 EDT"}

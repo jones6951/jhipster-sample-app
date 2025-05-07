@@ -1,3 +1,0 @@
-Native Compiler and extra args: ./ 
-Working directory: /Users/mjones/Demonstration/Polaris/jhipster-sample-app
-Comptype: kotlinc

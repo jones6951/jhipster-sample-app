@@ -1,4 +1,0 @@
-Native Compiler invocation: ./ --coverity_resp_file=/Users/mjones/Demonstration/Polaris/jhipster-sample-app/.bridge/Polaris Coverity Capture/idir/tmp/cicf-3186296e507dc5c9a1fd43b7f37aac8a/cov-translate-resp-file7
-Working directory: /Users/mjones/Demonstration/Polaris/jhipster-sample-app
-Comptype: html
-* Configuring JavaScript Buildless Capture (html)
