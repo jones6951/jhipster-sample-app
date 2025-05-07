@@ -1,0 +1,7 @@
+capture:
+  build:
+    build-command: npm install
+analyze:
+  checkers:
+    webapp-security:
+      enabled: true
